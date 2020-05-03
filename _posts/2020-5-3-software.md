@@ -1,9 +1,3 @@
-<dependency>
-    <groupId>com.github.houbb</groupId>
-    <artifactId>markdown-toc</artifactId>
-    <version>${maven-version}</version>
-</dependency>
-
 # About Mathmatica
 
 ## 快捷键
