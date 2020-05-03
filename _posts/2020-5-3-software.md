@@ -1,5 +1,8 @@
-开始我的记录
-[toc]
+<dependency>
+    <groupId>com.github.houbb</groupId>
+    <artifactId>markdown-toc</artifactId>
+    <version>${maven-version}</version>
+</dependency>
 
 # About Mathmatica
 
